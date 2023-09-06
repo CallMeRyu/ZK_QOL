@@ -2,6 +2,12 @@
 Just a list of mods that work well together and information about it and ones that don't. 
 
 
+Here is the mod load order that I have recently have set together that works without any startup errors. Updated on [9/6/2023] 
+The on Project Zomboid version [41.78.16]
+
+Known bugs [Non criticial, non crashing, visual] - Sometimes hovering your mouse over a random piece of clothing, whicch will always change each time you play, hovering your mouse will result in looping errors. This is a result of having "Food and experation date bar" mod, with the "clothing material type" mod. They both work mostly well together except for whatever is happening here. Game runs the same, both mods technically work together. But if you do not like any errors what so ever, disable one of the two mods, and things will work fine. 
+
+____________________________________
 VERSION = 1,
 
 mods
@@ -240,3 +246,4 @@ mods
 maps
 {
 }
+________________________________________________
